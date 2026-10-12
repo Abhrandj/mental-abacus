@@ -1,10 +1,1 @@
-MENTAL ABACUS SPEED - PWA
-
-1. Ekstrak ZIP. Folder berisi index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png.
-2. Edit file di Koder jika perlu.
-3. Unggah SEMUA file bersama-sama ke hosting HTTPS (misalnya GitHub Pages atau Netlify). Jangan hanya index.html.
-4. Buka alamat HTTPS aplikasi melalui Safari di iPad.
-5. Safari: tombol Bagikan -> Tambahkan ke Layar Utama (Add to Home Screen).
-6. Buka dari ikon di Home Screen. Setelah kunjungan pertama berhasil, aplikasi dapat digunakan offline.
-
-Catatan: membuka index.html langsung dari Files/Koder bukan instalasi PWA.
+Upload semua file di folder ini ke root repository GitHub Pages. Commit perubahan, tunggu deploy, buka Safari lalu Add to Home Screen. Pastikan index.html dan sw.js keduanya diganti agar cache lama diperbarui. Mode Kompetisi: timer total 80 soal/3 menit; mode Latihan: batas per soal. Timer dapat disembunyikan.
