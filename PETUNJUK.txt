@@ -1,1 +1,3 @@
-Upload semua file di folder ini ke root repository GitHub Pages. Commit perubahan, tunggu deploy, buka Safari lalu Add to Home Screen. Pastikan index.html dan sw.js keduanya diganti agar cache lama diperbarui. Mode Kompetisi: timer total 80 soal/3 menit; mode Latihan: batas per soal. Timer dapat disembunyikan.
+Mental Abacus V6
+Upload semua file ke ROOT repository GitHub Pages, menggantikan file lama. Tunggu deployment, tutup dan buka kembali PWA.
+Mode: latihan, kompetisi, Flash Anzan. Countdown 3 2 1 GO sebelum timer mulai.
